@@ -1,2 +1,3 @@
-# git
-a test repo for learning git with mosh 
+# Hi there
+a new repo 
+test
